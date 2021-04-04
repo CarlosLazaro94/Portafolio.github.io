@@ -1,0 +1,19 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "My Personal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosLazaro94/Portafolio.git"
+  },
+  "author": "Carlos Lazaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosLazaro94/Portafolio/issues"
+  },
+  "homepage": "https://github.com/CarlosLazaro94/Portafolio#readme"
+}
